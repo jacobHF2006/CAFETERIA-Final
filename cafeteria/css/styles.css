@@ -307,6 +307,12 @@ html {
 	gap: 3rem;
 }
 
+.container-categories a{
+	font-size: 1.6rem;
+	color: #fff;
+	cursor: pointer;
+}
+
 .card-category {
 	height: 20rem;
 	display: flex;
